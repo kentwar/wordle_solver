@@ -1,5 +1,6 @@
+numpy
 copy
-itertools as it
+itertools
 os
 scipy
 matplotlib
