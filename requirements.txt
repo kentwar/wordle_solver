@@ -1,5 +1,3 @@
 numpy
-itertools
-os
 scipy
 matplotlib
