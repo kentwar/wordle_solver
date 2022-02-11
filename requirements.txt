@@ -1,0 +1,5 @@
+copy
+itertools as it
+os
+scipy
+matplotlib
