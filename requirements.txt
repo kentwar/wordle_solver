@@ -1,5 +1,4 @@
 numpy
-copy
 itertools
 os
 scipy
